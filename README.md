@@ -1,5 +1,7 @@
 # MyRL - Hyperlocal Social Platform
 
+https://myrl.co
+
 MyRL is a hyperlocal social platform that connects users with people in their neighborhood or at venues they visit, such as cafes, hotels, or events. It facilitates real-life interactions through features like swiping to connect, making plans with groups or couples, and engaging with others in real-time at events.
 
 ## Core Functionalities
