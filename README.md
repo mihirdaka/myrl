@@ -20,7 +20,6 @@ MyRL is a hyperlocal social platform that connects users with people in their ne
 
 - **Node.js & Express.js**: Powering the server-side with a scalable and maintainable architecture.
 - **TypeScript**: Ensuring type safety and better development practices across the codebase.
-- **Frontend**: Built using Flutter, ensuring a consistent cross-platform experience.
 - **MySQL & TypeORM**: Robust database management with efficient querying and data relationships.
 - **Socket.io**: Enabling real-time communication for features like chat and live activities.
 - **JWT Authentication**: Secure user authentication and session management.
